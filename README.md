@@ -8,3 +8,11 @@
   <li>Atualizar recurso</li>
   <li>Deletar recurso</li>
 </ul>
+<br>
+<p>Competências avaliadas:</p>
+<ul>
+  <li>Implementação de operações de CRUD</li>
+  <li>Tratamento de exceções</li>
+  <li>Customização de respostas HTTP</li>
+  <li>Validação de dados com Bean Validation</li>
+</ul>
